@@ -1,1 +1,3 @@
-# spectre-audio-api
+# audio-spectrum-api
+
+https://github.com/Marchand-Nicolas/audio-spectrum
